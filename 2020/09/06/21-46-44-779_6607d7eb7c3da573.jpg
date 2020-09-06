@@ -1,0 +1,678 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="canonical" href="https://www.vector.co.jp/magazine/softnews/">
+<meta http-equiv="content-language" content="ja">
+<link rev="editor" href="mailto:editor@vector.co.jp">
+<link rel="alternate" type="application/rss+xml" title="ベクターソフトニュース：新着ソフトレビュー RSS" href="https://www.vector.co.jp/rss/softnews.xml">
+<title>Vector： ソフトライブラリ - 国内最大級の フリーソフト ダウンロードサイト</title>
+<link rel="stylesheet" type="text/css" href="/include/css/lib_tab.css">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.vector.co.jp/magazine/sp/softnews/index.html" />
+<link rel="alternate" media="handheld" href="https://www.vector.co.jp/magazine/sp/softnews/index.html" />
+<meta http-equiv="content-type" content="text/html; charset=Shift_JIS">
+<meta name="description" content="新着ソフトを中心に、登録ソフトの中から注目のソフト・話題のソフトを、画面付きのくわしい解説記事でご紹介しています。記事執筆者の試用感やソフト制作の裏話「ソフト作者からのひとこと」もお読みいただけます。">
+<meta name="keywords" content="ソフト,フリーソフト,シェアウェア,オンラインソフト,ソフトウェア,ダウンロード,無料,ソフトナビ,新着ソフトレビュー,ライブラリ,Windows 8 アプリケーション動作報告,Windows Vista対応ソフト一覧,画像編集,グラフィック,圧縮,解凍,ゲーム,CD,DVD,高速化,スピードアップ,カレンダー,時計,テキストエディタ,復元,削除,ケータイ,付箋,ToDo,メモ,タイピング">
+<meta name="google-translate-customization" content="e597baf56195eec9-bb7e9fb1021faf55-gbd45d322886fb6b9-10"></meta>
+<style type="text/css">
+<!--
+body {background:#fff; color:#333; font-family:meiryo, sans-serif, ＭＳ Ｐゴシック, ヒラギノ角ゴ Pro W3;}
+.top_navi	{font-size: 12px;}
+.top_navi_s	{font-size: 11px;}
+.menu_title	{font-size:12px; color:#ffffff; font-weight:bold;}
+.menu_title_b	{font-size:12px; font-weight:bold;}
+.menu	{font-size:12px;}
+.menu_s	{font-size:11px; line-height:120%;}
+.textad {font-size:12px;}
+.softtitle {font-size:11px; line-height:12px;}
+.sub	{font-size: 90%;}
+.sub2	{font-size: 80%;}
+body {background:#ffffff; color:#202020; font-family:meiryo, sans-serif, ＭＳ Ｐゴシック, ヒラギノ角ゴ Pro W3;}
+A:hover	{text-decoration:underline; color:#ff0000;}
+a.fc_white {
+	color:#fff;
+}
+a.fc_white:hover {
+	color:#ff0;
+}
+-->
+</style>
+</head>
+
+<body link="#0000ff" vlink="#800080" alink="#800040">
+<basefont size="3">
+
+
+
+<script type="text/javascript">
+if (document.referrer.indexOf('vector.co.jp') == -1 &&
+    ((navigator.userAgent.indexOf('iPhone') > 0 &&
+    navigator.userAgent.indexOf('iPad') == -1) ||
+    navigator.userAgent.indexOf('iPod') > 0 ||
+    navigator.userAgent.indexOf('Android') > 0)) {
+        if(confirm('このサイトにはスマートフォン用サイトがあります。表示しますか？')) {
+            location.href = '/magazine/sp/softnews/index.html';
+        }
+}
+</script>
+
+
+
+<link rel="stylesheet" type="text/css" href="/common/css/sep_common_m.css" />
+<script type="text/javascript" src="/common/js/jquery.js"></script>
+<script type="text/javascript" src="/common/js/sep_script.js"></script>
+<div id="v_wrapper">
+<!-- header -->
+<div id="v_header">
+<!-- wrapper --><div class="wrapper">
+
+<!-- logo -->
+<p id="v_logo"><a href="/"><img src="/common/images/logo_vector.png" alt="パソコンソフトを探すなら「Vector」" title="パソコンソフトを探すなら「Vector」" /></a></p>
+<!--/logo -->
+<!-- login -->
+<p id="v_login"><a href="//vpass.vector.co.jp/">ベクターパスポートとは？</a></p>
+<!-- /login -->
+
+<hr/>
+
+<!-- ソフトを探す -->
+<dl id="v_menu_select">
+<dt>パソコンソフトを探すなら「Vector」</dt>
+<dd class="m1"><a href="/magazine/softnews/?tab">ソフトライブラリ</a></dd>
+<dd class="m2"><a href="https://pcshop.vector.co.jp/service/">PCショップ</a></dd>
+<dd class="qp"><a href="https://qp.vector.co.jp/">QuickPoint</a></dd>
+</dl>
+<!--/ソフトを探す -->
+
+<hr/>
+
+</div><!-- /wrapper -->
+
+<!-- search -->
+<div id="v_search">
+	<div class="wrapper">
+		<form action="//search.vector.co.jp/vsearch/vsearch.php" method="get">
+			<a href="//search.vector.co.jp/vsearch/search_trend.php" class="trend">サーチトレンド！</a>
+			<input type="text" name="key" id="query"/>
+			<input type="hidden" value="shift-jis" name="kanji"/>
+			<input type="submit" title="検索" value="検索" id="search"/>
+		</form>
+		<p><a href="//search2.vector.co.jp/vsearch/gw.php">ショップで検索</a></p>
+	</div>
+
+
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT, gaTrack: true, gaId: 'UA-359791-3'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
+</div>
+<!-- /search -->
+
+<hr />
+
+</div>
+<!-- /header -->
+
+
+<!--Vector large-->
+<div id="v_container"><div id="v_50"><div class="wrapper"><dl id="v_menu_other">
+<dt>その他のコンテンツ</dt>
+<dd><a href="http://www.papy.co.jp/cnt/?ac=a-r28c5cf1&pg=/renta/sc/frm/page/index_d.htm%3Frbc%3D16%26rsi%3Dd">ちょい読み!</a></dd>
+<dd><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=14581&pid=885706551&vc_url=https%3A%2F%2Febookjapan.yahoo.co.jp%2F%3Fdealerid%3D30064" target="_blank" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=14581&pid=885706551" height="1" width="0" border="0">コミック</a></dd>
+</dl>
+<div id="ad_vectorlarge"><div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- VectorLarge_imagefiller -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1998071805433562"
+     data-ad-region="VectorLarge"
+     data-ad-slot="4300583421"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div><hr /><!-- social button
+<div class="ninja_onebutton" style="display:none"><script type="text/javascript">(function(d){if(typeof(window.NINJA_CO_JP_ONETAG_BUTTON_6c5ef0c0f7b12d23bfd5f9c79a8fb4d1)=='undefined'){document.write("<sc"+"ript type='text\/javascript' src='http:\/\/omt.shinobi.jp\/b\/6c5ef0c0f7b12d23bfd5f9c79a8fb4d1'><\/sc"+"ript>");}else{window.NINJA_CO_JP_ONETAG_BUTTON_6c5ef0c0f7b12d23bfd5f9c79a8fb4d1.ONETAGButton_Load();}})(document);</script><span class="ninja_onebutton_hidden" style="display:none;"></span><span style="display:none;" class="ninja_onebutton_hidden"></span></div>
+/social button -->
+</div></div></div>
+<!--/Vector large-->
+
+<table border="0" width="900" cellpadding="0" cellspacing="0" align="center">
+<tr><td align="center" valign="top" width="100%"><div id="lib_tab">
+<ul>
+<li><a href="/?tab"><span><img src="/magazine/softnews/images/vec_logo3_tab.gif" width="13" height="13" alt="Vectorトップ" border="0">トップ</span></a></li>
+<li id="current"><a href="/magazine/softnews/?tab"><span><img src="/magazine/softnews/images/favicon.gif" width="16" height="16" alt="ベク太くん" align="left" border="0">ライブラリ</span></a></li>
+<li><a href="/vpack/filearea/win/?tab"><span>Windows</span></a></li>
+<li><a href="/vpack/filearea/osx/"><span>Mac(OS X)</span></a></li>
+<li><a href="/download/?tab"><span>全OS</span></a></li>
+<li><a href="/vpack/whats/?tab"><span>新着ソフト</span></a></li>
+<li><a href="/vpack/ranking/?tab"><span>ランキング</span></a></li>
+<li><a href="https://comment.vector.co.jp/latest-allcat.php?tab" target="_blank"><span>新着コメント</span></a></li>
+</ul>
+</div>
+</td></tr></table>
+
+<table width="900" border="0" cellspacing="0" cellpadding="4" align="center" bgcolor="#eeeeee"><tr><td align="center"><font size="2" style="font-size:80%;">昨日までの累計ダウンロード本数&nbsp;：&nbsp;<b>2,097,029,514
+</b>&nbsp;本&nbsp;／&nbsp;現在のライブラリ登録本数&nbsp;：&nbsp;<b>117,271
+</b>&nbsp;本</font></td></tr></table>
+
+
+
+
+
+<!--top_magazine.inc start-->
+
+
+
+
+
+
+<table width="900" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td><img src="/images/null.gif" width="900" height="1"></td></tr></table>
+
+
+
+<!--メイン-->
+<table width="900" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr valign="top">
+
+<!--左側エリア-->
+<td width="160" bgcolor="#ffffff">
+
+
+
+<table bgcolor="#99ccff" border="0" cellpadding="1" cellspacing="0" align="center">
+<tr><td width="160">
+
+<table bgcolor="#ffffff" cellpadding="3" cellspacing="0" border="0" width="100%">
+<tr><td bgcolor="#99ccff"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="center" valign="middle" class="menu_title"><a href="/download/">ダウンロード</a></td></tr></table></td></tr>
+<tr><td bgcolor="#eeeeee"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="center" valign="middle" class="menu_title"><a href="/vpack/filearea/win/" title="Windows用のソフトをダウンロードできます">Windows</a></td></tr></table></td></tr>
+
+<tr><td>
+
+<table border="0" cellpadding="2" cellspacing="0">
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="文書作成" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/writing/" title="テキストエディタ、顔文字、地図、ラベル・名刺 ...">文書作成</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/net/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="インターネット＆通信" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/net/">インターネット＆通信</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/util/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ユーティリティ" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/util/">ユーティリティ</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/art/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="画像＆サウンド" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/art/">画像＆サウンド</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/business/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ビジネス" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/business/">ビジネス</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/personal/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="パーソナル" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/personal/">パーソナル</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/home/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="家庭＆趣味" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/home/">家庭＆趣味</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/edu/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="学習＆教育" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/edu/">学習＆教育</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/game/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ゲーム" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/game/">ゲーム</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/amuse/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="アミューズメント" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/amuse/">アミューズメント</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/prog/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="プログラミング" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/prog/">プログラミング</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/win/hardware/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ハードウェア" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/win/hardware/">ハードウェア</a></font></td>
+</tr>
+
+<tr valign="top" align="center">
+<td colspan="2" bgcolor="#FFFFE0"><a href="http://w10.vector.jp/?from=softnews"><img src="./images/bt_w10.gif" width="150" height="30" alt="Windows 10 アプリケーション動作報告" border="0"></a></td>
+</tr>
+
+</table>
+
+</td></tr>
+
+<tr><td bgcolor="#eeeeee"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="center" valign="middle" class="menu_title"><a href="/vpack/filearea/osx/" title="Mac用のソフトをダウンロードできます">Mac</a></td></tr></table></td></tr>
+
+<tr><td>
+
+<table border="0" cellpadding="2" cellspacing="0">
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="文書作成" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/writing/" title="テキストエディタ、顔文字、地図、ラベル・名刺 ...">文書作成</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="インターネット＆通信" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/net/">インターネット＆通信</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ユーティリティ" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/util/">ユーティリティ</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="画像＆サウンド" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/art/">画像＆サウンド</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ビジネス" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/business/">ビジネス</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="パーソナル" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/personal/">パーソナル</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="家庭＆趣味" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/home/">家庭＆趣味</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="学習＆教育" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/edu/">学習＆教育</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ゲーム" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/game/">ゲーム</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="アミューズメント" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/amuse/">アミューズメント</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="プログラミング" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/prog/">プログラミング</a></font></td>
+</tr>
+
+<tr valign="top">
+<td width="1%"><a href="/vpack/filearea/osx/writing/"><img src="/images/folder/folder2.gif" width="16" height="16" alt="ハードウェア" border="0"></a></td>
+<td width="99%"><font style="font: 12px" size="3"><a href="/vpack/filearea/osx/hardware/">ハードウェア</a></font></td>
+</tr>
+
+</table>
+
+</td></tr>
+
+<tr><td bgcolor="#eeeeee"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="center" valign="middle" class="menu_title"><a href="/download/" title="Windows、Mac、MS-DOS、UNIX、データ、OS/2,WARP、Solaris、ベンダー提供ソフト、FM-TOWNS、Macベンダー提供ソフト、X69000、その他">MS-DOS等、<br>その他全OS用一覧</a></td></tr></table></td></tr>
+
+</table>
+
+
+
+</td></tr>
+</table>
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="150" height="6"></td></tr></table>
+<!--/セパレータ-->
+
+<!--<hr size="1">-->
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="150" height="6"></td></tr></table>
+<!--/セパレータ-->
+
+
+
+
+
+</td>
+<!--/左側エリア-->
+
+
+<!--メインテーブルセパレータ-->
+<td width="5"><img src="/images/null.gif" alt="" width="5" height="16"></td>
+<!--/メインテーブルセパレータ-->
+
+
+
+<!--中央エリア-->
+<td width="426">
+
+
+
+
+
+<!--this week start / this week start / this week start-->
+
+<table width="100%" border="0" cellpadding="3" cellspacing="0">
+<tr bgcolor="#224488">
+<td align="left" valign="middle"><font color="#ffffff"><strong>&nbsp;新着ソフトレビュー</strong></font></td><td align="right"><a href="/rss/"><img src="/images/070801/btn_rss.gif" alt="RSS一覧" width="76" height="18" border="0"></a></td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td valign="top"><br>
+
+<!--"n1905221"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="190522/n1905221.html"><img alt="AdGuard" src="190522/images/n1905221icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="190522/n1905221.html">AdGuard</a></strong><br><font size="2"><a href="190522/n1905221.html" style="text-decoration:none;">各種WebブラウザでWebサイトを閲覧する際に表示される広告を非表示にするソフト。Mac、Androidならアプリ内に表示される広告もブロック可能</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--"n2008211"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="200821/n2008211.html"><img alt="Parallels Desktop 16 for Mac" src="200821/images/n2008211icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="200821/n2008211.html">Parallels Desktop 16 for Mac</a></strong><br><font size="2"><a href="200821/n2008211.html" style="text-decoration:none;">再起動する事なくMacでWindowsが使用できる仮想化ソフト</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--"n1806161"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="180616/n1806161.html"><img alt="マカフィー リブセーフ" src="180616/images/n1806161icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="180616/n1806161.html">マカフィー リブセーフ</a></strong><br><font size="2"><a href="180616/n1806161.html" style="text-decoration:none;">家族全員、何台でもインストール可能。パソコン、スマホ、タブレットを守るセキュリティソフト</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--"n2007221"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="200722/n2007221.html"><img alt="スマホがドライブ" src="200722/images/n2007221icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="200722/n2007221.html">スマホがドライブ</a></strong><br><font size="2"><a href="200722/n2007221.html" style="text-decoration:none;">スマホがまるで外付けドライブに。パソコン内のデータを無線でスマホに直接保存＆再生</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--"n2007151"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="200715/n2007151.html"><img alt="スーパーマップル・デジタル21 広域日本システム" src="200715/images/n2007151icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="200715/n2007151.html">スーパーマップル・デジタル21 広域日本システム</a></strong><br><font size="2"><a href="200715/n2007151.html" style="text-decoration:none;">パソコン・スマホ・タブレットで使えてインターネット接続無しで使える地図ソフト</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--"n2007081"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="200708/n2007081.html"><img alt="ネットラジオハンター" src="200708/images/n2007081icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="200708/n2007081.html">ネットラジオハンター</a></strong><br><font size="2"><a href="200708/n2007081.html" style="text-decoration:none;">簡単な操作でインターネットラジオの再生・録音が出来るソフト</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--"n1512191"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="151219/n1512191.html"><img alt="会社四季報CD-ROM　ダウンロード版" src="151219/images/n1512191icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="151219/n1512191.html">会社四季報CD-ROM　ダウンロード版</a></strong><br><font size="2"><a href="151219/n1512191.html" style="text-decoration:none;">パソコンならではの高い検索性で、全上場企業の豊富なデータをフル活用できる</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--"n2006241"-->
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff"><tr><td valign="top" align="center" width="45" height="40"><a href="200624/n2006241.html"><img alt="おまかせ電子印鑑 for Business" src="200624/images/n2006241icon.gif" width="48" height="48" border="0"></a></td><td valign="top" width="375"><strong><a href="200624/n2006241.html">おまかせ電子印鑑 for Business</a></strong><br><font size="2"><a href="200624/n2006241.html" style="text-decoration:none;">改変を防止。電子署名付き押印ができる電子印鑑作成ソフト</a></font><br><br><hr width="98%" size="1" align="left" color="#606060"></td></tr><tr><td colspan="2" height="1"><p></td></tr></table>
+
+<!--this week end / this week end / this week end-->
+
+
+
+<style>#list_review {padding:5px 0 5px 2px;}#list_review h3 {background-color:#224488;margin:0;padding:2px 5px;color:#fff;font-size:12px;}#list_review dl {display:inline-block;width:49%;margin:8px 0 0 0;}#list_review dl dt {margin-bottom:5px;font-size:1.1em;}#list_review dl dd {margin:0 0 4px;padding-left:0.5em;}#list_review dl dd:before {content:'・';}#list_review dl dd a {text-decoration:none;}</style>
+<div id="list_review">
+  <h3>新着ソフトレビュー 公開記事一覧</h3>
+  <dl class="list_windows">
+  <dt>Windows</dt>
+  <dd><a href="backnum/win_writing.html">文書作成</a></dd>
+  <dd><a href="backnum/win_net.html">インターネット＆通信</a></dd>
+  <dd><a href="backnum/win_util.html">ユーティリティ</a></dd>
+  <dd><a href="backnum/win_art.html">画像＆サウンド</a></dd>
+  <dd><a href="backnum/win_business.html">ビジネス</a></dd>
+  <dd><a href="backnum/win_personal.html">パーソナル</a></dd>
+  <dd><a href="backnum/win_home.html">家庭＆趣味</a></dd>
+  <dd><a href="backnum/win_edu.html">学習＆教育</a></dd>
+  <dd><a href="backnum/win_game.html">ゲーム</a></dd>
+  <dd><a href="backnum/win_amuse.html">アミューズメント</a></dd>
+  <dd><a href="backnum/win_prog.html">プログラミング</a></dd>
+  <dd><a href="backnum/win_hardware.html">ハードウェア</a></dd>
+  </dl>
+  <dl class="list_mac">
+  <dt>Mac</dt>
+  <dd><a href="backnum/mac_writing.html">文書作成</a></dd>
+  <dd><a href="backnum/mac_net.html">インターネット＆通信</a></dd>
+  <dd><a href="backnum/mac_util.html">ユーティリティ</a></dd>
+  <dd><a href="backnum/mac_art.html">画像＆サウンド</a></dd>
+  <dd><a href="backnum/mac_business.html">ビジネス</a></dd>
+  <dd><a href="backnum/mac_personal.html">パーソナル</a></dd>
+  <dd><a href="backnum/mac_home.html">家庭＆趣味</a></dd>
+  <dd><a href="backnum/mac_edu.html">学習＆教育</a></dd>
+  <dd><a href="backnum/mac_game.html">ゲーム</a></dd>
+  <dd><a href="backnum/mac_amuse.html">アミューズメント</a></dd>
+  <dd><font color="#999999">プログラミング</font></dd>
+  <dd><font color="#999999">ハードウェア</font></dd>
+  </dl>
+</div>
+
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td><img src="/images/null.gif" width="400" height="6"></td></tr></table>
+<!--/セパレータ-->
+
+
+
+
+
+</td>
+<!--/中央エリア-->
+
+<!--メインテーブルセパレータ-->
+<td width="5"><img src="/images/null.gif" alt="" width="5" height="16"></td>
+<!--/メインテーブルセパレータ-->
+
+<!--右側エリア-->
+<td width="304" align="center" bgcolor="#eeeeee">
+
+<table bgcolor="#6666ff" border="0" cellpadding="1" cellspacing="0" align="center">
+<tr><td>
+<table bgcolor="#ffffff" cellpadding="3" cellspacing="0" border="0" width="304">
+<tr><td bgcolor="#6666ff"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="center" valign="middle" class="menu_title">ご利用案内</td></tr></table></td></tr>
+<tr><td bgcolor="#f0ffff">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr align="left" valign="top"><td><img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><font style="font: 12px;" size="3"><b><a href="/for_users/guide/">はじめての方へ</a></b></font><img src="/info/images/mark/wakaba2.gif" width="16" height="16" alt=""><br><font style="font: 9px;" size="2">　　はじめてベクターをご利用になられる方はまずご覧ください</font></td></tr>
+<tr align="left" valign="top"><td><img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><font style="font: 12px" size="3"><a href="/for_users/faq/qa_index.html">よくある質問と答え</a>&nbsp;／&nbsp;<img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><a href="/info/caution/">利用上の注意</a></font></td></tr>
+<tr align="left" valign="top"><td><!--<img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><font style="font: 12px" size="3"><a href="/magazine/softnews/about_article.html">ソフトレビューについて</a>&nbsp;／-->&nbsp;<img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><a href="/for_users/study/">オンラインソフトについて</a></font></td></tr>
+</table>
+</td></tr>
+</table>
+</td></tr>
+</table>
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="304" height="6"></td></tr></table>
+<!--/セパレータ-->
+
+
+
+
+
+<table bgcolor="#99ccff" border="0" cellpadding="1" cellspacing="0" align="center">
+<tr><td>
+
+<table bgcolor="#ffffff" cellpadding="3" cellspacing="0" border="0" width="304">
+<tr><td bgcolor="#99ccff"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="center" valign="middle" class="menu_title"><a href="/vpack/ranking/">ランキング</a></td></tr></table></td></tr>
+<tr><td>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr align="left" valign="top"><td><img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><font style="font: 12px" size="3"><a href="/magazine/softnews/ranking/2020/rank_2007_sh_win.html">Windows総合</a></font><font style="font: 10px" size="2">（20.07.16～20.07.31）</font><!--<img src="/images/smallgif/new.gif" alt="new!!" width="32" height="14" border="0" hspace="4">--></td></tr>
+<tr align="left" valign="top"><td><img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><font style="font: 12px" size="3"><a href="/magazine/softnews/ranking/2020/rank_2007_sh_mac.html">Mac総合</a></font><font style="font: 10px" size="2">（20.07.16～20.07.31）</font><!--<img src="/images/smallgif/new.gif" alt="new!!" width="32" height="14" border="0" hspace="4">--></td></tr>
+</table>
+
+
+
+</table>
+
+</td></tr>
+</table>
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="304" height="6"></td></tr></table>
+<!--/セパレータ-->
+
+
+<table bgcolor="#99ccff" border="0" cellpadding="1" cellspacing="0" align="center">
+<tr><td>
+
+<table bgcolor="#ffffff" cellpadding="3" cellspacing="0" border="0" width="304">
+<tr><td bgcolor="#99ccff"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td align="center" valign="middle" class="menu_title"><a href="/vpack/whats/">新着ソフト</a></td></tr></table></td></tr>
+<tr><td>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr align="left" valign="top"><td><img src="/magazine/images/mark_win_2.gif" width="10" height="16" alt=""><font style="font: 12px;" size="3"><a href="/vpack/whats/">新着ソフト一覧</a></font><font style="font: 9px;" size="2">&nbsp;（WindowsやMacはじめ、すべてのOSの新着ソフト）</font></td></tr>
+</table>
+
+</td></tr>
+
+</table>
+</td></tr>
+</table>
+
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="304" height="6"></td></tr></table>
+<!--/セパレータ-->
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center"><a href="https://s.shop.vector.co.jp/service/cgi-bin/mailservice/regist.cgi" target="top"><img src="https://cache.vector.co.jp/img_cache/tq/p/service/dm/images/DM150x150.gif" width="150" height="150" vspace="2" border="0" alt="メールマガジン登録 "><br><font style="font-size:10px;">メールマガジン登録</font></a></td></tr></table>
+
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="304" height="8"></td></tr></table>
+<!--/セパレータ-->
+
+
+
+
+
+
+
+<!-- comment -->
+<TABLE cellSpacing=0 cellPadding=1 align=center bgr=#dd3333 border=0><TBODY>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=0 cellPadding=3 width=304 bgColor=#ffeeee border=0>
+        <TR>
+          <TD bgColor=#dd3333>
+            <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+              <TBODY>
+              <TR>
+                <TD class=menu_title vAlign=center align=middle><img src="/swreg/images/new_orange.gif" alt="NEW!" />&nbsp;<A class="fc_white" href="//comment.vector.co.jp/latest-allcat.php" target="_blank">新着コメント</A>&nbsp;<img src="/swreg/images/new_orange.gif" alt="NEW!" />
+                </TD>
+              </TR>
+              </TBODY>
+            </TABLE>
+          </TD>
+        </TR>
+        <TR>
+          <TD align="left">
+            <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+             <TR>
+               <TD align="left">
+<TR vAlign=top><TD><IMG src="/magazine/images/mark_win_2.gif" width=10 height=16 alt=""><FONT style="font-size: 12px;" size=3><A href="//www.vector.co.jp/soft/cmt/winnt/personal/se518050.html">大きなプログラムタイマー&amp;時計「KTIMER」</A>&nbsp;自由にプログラムを組める実用的な...</FONT></TD></TR>
+<TR vAlign=top><TD><IMG src="/magazine/images/mark_win_2.gif" width=10 height=16 alt=""><FONT style="font-size: 12px;" size=3><A href="//www.vector.co.jp/soft/cmt/winnt/util/se033494.html">Explzh for Windows</A>&nbsp;更新頻度も高く、非常によい</FONT></TD></TR>
+<TR vAlign=top><TD><IMG src="/magazine/images/mark_win_2.gif" width=10 height=16 alt=""><FONT style="font-size: 12px;" size=3><A href="//www.vector.co.jp/soft/cmt/winnt/game/se505030.html">柿木将棋IX</A>&nbsp;「早指し二段 森田将棋２」と「最...</FONT></TD></TR>
+<TR vAlign=top><TD><IMG src="/magazine/images/mark_win_2.gif" width=10 height=16 alt=""><FONT style="font-size: 12px;" size=3><A href="//www.vector.co.jp/soft/cmt/winnt/util/se509299.html">Syncios Data Transfer</A>&nbsp;動作が軽い</FONT></TD></TR>
+<TR vAlign=top><TD><IMG src="/magazine/images/mark_win_2.gif" width=10 height=16 alt=""><FONT style="font-size: 12px;" size=3><A href="//www.vector.co.jp/soft/cmt/winnt/business/se474624.html">NCx2</A>&nbsp;DXF  DATAをNC加工DA...</FONT></TD></TR>
+
+<div align="right"><font style="font-size:10px;" size="2"><a href="//comment.vector.co.jp/latest-allcat.php">一覧を見る</a></font></div>
+               </TD>
+             </TR>
+            </TABLE>
+          </TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+</TABLE>
+<!-- /comment -->
+
+<hr size="1" width="96%" align="center">
+
+
+
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="304" height="4"></td></tr></table>
+<!--/セパレータ-->
+
+
+<!-- %%Vector ADServer%% -->
+<div align="center"><div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- DLSQ_imagefiller_336x280 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-1998071805433562"
+     data-ad-region="DLSQ"
+     data-ad-slot="2106571950"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+<!-- %%Vector ADServer%% -->
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="304" height="16"></td></tr></table>
+<!--/セパレータ-->
+
+
+
+
+
+
+
+
+
+
+
+<!--セパレータ-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/null.gif" width="304" height="6"></td></tr></table>
+<!--/セパレータ-->
+
+
+
+
+
+</td>
+</tr>
+</table>
+<!--/メイン-->
+
+<div align="center">
+<hr size="1" width="750">
+<font size="2">
+掲載内容に関するご意見・ご感想は <A HREF="mailto:editor@vector.co.jp">editor@vector.co.jp</A> まで
+<br>
+Copyright (c) Vector Inc. All rights Reserved.
+</font>
+</div>
+
+<!-- yahoo tag manager -->
+<script id="tagjs" type="text/javascript">
+	(function () {
+	  var tagjs = document.createElement("script");
+	  var s = document.getElementsByTagName("script")[0];
+	  tagjs.async = true;
+	  tagjs.src = "//s.yjtag.jp/tag.js#site=hZs08dr";
+	  s.parentNode.insertBefore(tagjs, s);
+	}());
+</script>
+<noscript><iframe src="//b.yjtag.jp/iframe?c=hZs08dr" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript>
+<!-- /yahoo tag manager -->
+
+
+</body>
+</html>
